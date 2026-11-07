@@ -16,22 +16,12 @@ I don't wait until I know everything to start building.
 
 I start with an idea, explore what's needed, learn while building, experiment with different approaches, make mistakes, and improve.
 
-For me, every project is an opportunity to understand something new.
-
 ### 🔍 Things That Keep Me Exploring
 
 - **Business & Marketing:** Understanding markets, customer behaviour, sales, and what makes a product valuable.
 - **Data & Analytics:** Finding patterns, asking better questions, and making smarter business decisions.
 - **AI & Machine Learning:** Exploring intelligent systems and discovering what can be automated or improved.
 - **Software Engineering:** Turning ideas into practical applications that solve real problems.
-
-### 🚀 What I'm Building
-
-I use my GitHub as a space to experiment, build, and document my journey across three areas:
-
-- Data Analytics
-- Machine Learning
-- Full-Stack & Software Engineering
 
 Not everything starts perfect. That's part of the process.
 
