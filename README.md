@@ -36,33 +36,50 @@ I'm a Third-year Information Technology student. I'm fascinated by the journey f
 | **Data Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat) |
 | **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) Linear & Logistic Regression · Decision Trees · KNN · SVM |
 | **BI & Spreadsheets** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) PivotTables · XLOOKUP · SUMIFS |
-| **Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Dev Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **AI Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white) ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat&logo=googlegemini&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white) ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat&logo=google&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat) ![Wispr Flow](https://img.shields.io/badge/Wispr_Flow-6C47FF?style=flat) |
 
 ---
 
-## 🚀 Explore My Work
+## 🚀 Featured Work
 
-### 📊 Data Analytics
-
-Projects focused on transforming raw data into meaningful insights.
-
-- [Sales Data Cleaning & Visualization](https://github.com/Tejoshkumar/sales-data-cleaning-and-visualization)
-- [SCT Data Analytics Projects](https://github.com/Tejoshkumar/SCT_DATA-_ANALYTICS_PROJECTS)
-
-### 🤖 Machine Learning & AI
-
-Exploring predictive models, intelligent systems, and practical applications.
-
-- [Flower Species Predictor](https://github.com/Tejoshkumar/flower_species_predictor)
-- [Sales Prediction](https://github.com/Tejoshkumar/sales-prediction)
-- [Expense Tracker](https://github.com/Tejoshkumar/expenses-tracker-using-python-)
-- [Student Marks Analyzer](https://github.com/Tejoshkumar/student-marks-analyzer)
-
-### 💻 Full-Stack & Software Engineering
-
-Building applications that solve practical problems.
-
-- [Railway Locker Management System (RLMS)](https://github.com/Tejoshkumar/RLMS)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📊 Data Analytics</h3>
+      <sub>Raw data → business insights</sub>
+      <br><br>
+      <a href="https://github.com/Tejoshkumar/SCT_DATA-_ANALYTICS_PROJECTS"><b>SCT Analytics Projects</b></a><br>
+      <sub>Excel · Python · Power BI</sub>
+      <br><br>
+      <a href="https://github.com/Tejoshkumar/sales-data-cleaning-and-visualization"><b>Sales Data Cleaning & Visualization</b></a><br>
+      <sub>Python · Pandas · Matplotlib</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 Machine Learning</h3>
+      <sub>Predictive models & classification</sub>
+      <br><br>
+      <a href="https://github.com/Tejoshkumar/sales-prediction"><b>Sales Prediction</b></a><br>
+      <sub>Linear Regression · scikit-learn</sub>
+      <br><br>
+      <a href="https://github.com/Tejoshkumar/flower_species_predictor"><b>Flower Species Predictor</b></a><br>
+      <sub>Logistic Regression · scikit-learn</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💻 Software Engineering</h3>
+      <sub>Applications that solve practical problems</sub>
+      <br><br>
+      <a href="https://github.com/Tejoshkumar/RLMS"><b>Railway Locker Management System</b></a><br>
+      <sub>Full-stack application</sub>
+      <br><br>
+      <a href="https://github.com/Tejoshkumar/expenses-tracker-using-python-"><b>Expense Tracker</b></a><br>
+      <sub>Python · CLI</sub>
+      <br><br>
+      <a href="https://github.com/Tejoshkumar/student-marks-analyzer"><b>Student Marks Analyzer</b></a><br>
+      <sub>Python · Data structures</sub>
+    </td>
+  </tr>
+</table>
 
 
 ---
