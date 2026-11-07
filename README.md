@@ -40,18 +40,30 @@ I'm a Third-year Information Technology student. I'm fascinated by the journey f
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Explore My Work
 
-| Project | What it does | Tech |
-|---------|--------------|------|
-| [📊 **SCT Data Analytics Projects**](https://github.com/Tejoshkumar/SCT_DATA-_ANALYTICS_PROJECTS) | Data cleaning, EDA, dashboards and business insights on retail sales data (Superstore) from my SkillCraft internship | Excel, Python, Power BI |
-| [📈 **Sales Prediction**](https://github.com/Tejoshkumar/sales-prediction) | Predicts future sales from past data, comparing a manual calculation with scikit-learn's `LinearRegression`, with visualizations | Python, scikit-learn, Matplotlib |
-| [🧹 **Sales Data Cleaning & Visualization**](https://github.com/Tejoshkumar/sales-data-cleaning-and-visualization) | Cleans a raw sales dataset and visualizes trends | Python, Pandas, Matplotlib |
-| [🌸 **Flower Species Predictor**](https://github.com/Tejoshkumar/flower_species_predictor) | Classifies flower species with Logistic Regression | Python, scikit-learn |
-| [💰 **Expenses Tracker**](https://github.com/Tejoshkumar/expenses-tracker-using-python-) | Menu-driven app to add, view, remove and analyze expenses | Python |
-| [🎓 **Student Marks Analyzer**](https://github.com/Tejoshkumar/student-marks-analyzer) | Analyzes student marks using nested dictionaries | Python |
+### 📊 Data Analytics
 
-> 🏫 **Also built:** *Smart Campus – An AI Academic Assistant*, a working prototype with student, faculty and admin dashboards, a natural-language assistant and a FastAPI backend.
+Projects focused on transforming raw data into meaningful insights.
+
+- [Sales Data Cleaning & Visualization](https://github.com/Tejoshkumar/sales-data-cleaning-and-visualization)
+- [SCT Data Analytics Projects](https://github.com/Tejoshkumar/SCT_DATA-_ANALYTICS_PROJECTS)
+
+### 🤖 Machine Learning & AI
+
+Exploring predictive models, intelligent systems, and practical applications.
+
+- [Flower Species Predictor](https://github.com/Tejoshkumar/flower_species_predictor)
+- [Sales Prediction](https://github.com/Tejoshkumar/sales-prediction)
+- [Expense Tracker](https://github.com/Tejoshkumar/expenses-tracker-using-python-)
+- [Student Marks Analyzer](https://github.com/Tejoshkumar/student-marks-analyzer)
+
+### 💻 Full-Stack & Software Engineering
+
+Building applications that solve practical problems.
+
+- [Railway Locker Management System (RLMS)](https://github.com/Tejoshkumar/RLMS)
+
 
 ---
 
