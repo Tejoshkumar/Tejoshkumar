@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tejosh Kumar Saka 👋</h1>
 
 <p align="center">
-  <b>Aspiring Data Analyst & ML Engineer</b> · B.Tech IT @ ANITS, Visakhapatnam<br>
+  <b>Data & AI/ML Engineer</b> · B.Tech IT @ ANITS, Visakhapatnam<br>
   <i>Curious about business. Obsessed with building. Driven by data.</i>
 </p>
 
@@ -17,11 +17,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a second-year Information Technology student who enjoys turning raw data into decisions a business can act on. I like the full journey: **find a problem → build a solution → measure what happens → improve it with data.**
+I'm a Third-year Information Technology student. I'm fascinated by the journey from:
+
+**Finding a problem → Building a solution → Turning it into a product → Getting people to use it → Growing it through data.**
 
 - 📊 Completed internships in **Data Science & Analytics** and **Data Analytics**
 - 🤖 Building my foundation in **Machine Learning**, one project at a time
-- 🎯 Currently looking for **Data Analyst / Business Analyst / ML internships**
+- 🎯 Currently looking for **Data Analyst / AI engineer / ML internships**
 - 📍 Visakhapatnam, Andhra Pradesh, India
 
 ---
@@ -53,19 +55,21 @@ I'm a second-year Information Technology student who enjoys turning raw data int
 
 ---
 
-## 💼 Experience
+## 💼 
 
 | Role | Organization | Period |
 |------|--------------|--------|
 | Data Science & Analytics Intern | Coromandel International Ltd. | May – Jul 2026 |
 | Data Analytics Intern | SkillCraft Technology | Jun 2026 |
-| Data Science Intern (Virtual) | IBM | Customer Purchasing Behavior Profiler & Outlier Detector |
+=
 
 ---
 
 ## 🎓 Education & Certifications
 
 - **B.Tech, Information Technology** — Anil Neerukonda Institute of Technology & Sciences (ANITS), Visakhapatnam · CGPA 8.3
+- 🏅 GEN AI powered data analytics simulation- TATA
+- 🏅 E-learning Resilence-Nestle
 - 🏅 AI Fluency — Anthropic
 - 🏅 Generative AI — Outskill
 - 🏅 Python (Silver Badge) — HackerRank
@@ -82,7 +86,7 @@ I'm a second-year Information Technology student who enjoys turning raw data int
 
 ## 🤝 Let's Connect
 
-I'm open to internships and collaborations in **data analytics, business analytics and machine learning**.
+I'm open to internships and collaborations in **data analytics, business analytics, AI automations and machine learning**.
 Reach out on [LinkedIn](https://www.linkedin.com/in/tejosh-kumar-saka-0b69b2340/), I'd love to hear from you.
 
 <p align="center"><i>Always curious. Always experimenting. Always building.</i></p>
