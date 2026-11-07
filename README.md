@@ -61,7 +61,7 @@ I'm a Third-year Information Technology student. I'm fascinated by the journey f
 |------|--------------|--------|
 | Data Science & Analytics Intern | Coromandel International Ltd. | May – Jul 2026 |
 | Data Analytics Intern | SkillCraft Technology | Jun 2026 |
-=
+
 
 ---
 
